@@ -8,7 +8,7 @@ pub fn run(){
 
     let name = input("What's your name? ").expect("oops");
 
-    println!("Hello {} ! " , name);
+    println!("Hello {}! " , name);
 
     let age = input("What's your age? ")
      .expect("oops")
