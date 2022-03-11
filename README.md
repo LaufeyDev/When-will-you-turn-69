@@ -4,4 +4,4 @@ This rust program tells you when you'll turn 69 years old
 
 # Output
 
-![image](https://user-images.githubusercontent.com/94543623/157916047-416387c2-e8ee-4f17-9036-82e543bf363d.png)
+![image](https://user-images.githubusercontent.com/94543623/157916237-79e38185-772e-472f-8910-48f7d6390677.png)
